@@ -1,2 +1,8 @@
-# life-maker-daily-2026-10-01
-Daily Life Maker fleet 1 Oct 2026: 10 peace-first passive engines + master profit monitor with human-feel sliders and paid campaign desk.
+# Life Maker Fleet — 1 October 2026
+
+Ten quiet passive engines + Master Life Maker Profit Monitor.
+Tune warmth, quiet, urgency and giving-first. Paid campaigns stay optional and are blocked when the human-feel score drops below 55.
+
+- Hub: index.html
+- Monitor: monitor.html
+- Engines: apps/
